@@ -10,7 +10,7 @@ Meu primeiro projeto desenvolvido com os cursos de HTML e CSS da Alura, ministra
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![]![capa portfolio](https://github.com/ArthurRodrigoM/portfolio--curriculo/blob/main/capa%20portfolio.JPG#vitrinedev)
+![capa portfolio](https://github.com/ArthurRodrigoM/portfolio--curriculo/blob/main/capa%20portfolio.JPG#vitrinedev)
 
 
 ## Detalhes do projeto
