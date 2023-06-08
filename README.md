@@ -5,7 +5,7 @@ Meu primeiro projeto desenvolvido com os cursos de HTML e CSS da Alura, ministra
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Portfolio currículo**
-| :label: Tecnologias | html, css
+| :label: Tecnologias | HTML, CSS
 | :rocket: URL         | https://portfolio-curriculo-six.vercel.app/
 
 
