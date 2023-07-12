@@ -15,4 +15,4 @@ Meu primeiro projeto desenvolvido com os cursos de HTML e CSS da Alura, ministra
 
 ## Detalhes do projeto
 
-Pojeto desenvolvido com base nos cursos de HTML e CSS da Alura, dando meus primeiros passos na área de tecnologia. Nesse projeto, elaborei uma página de currículo para mim, contando com várias informações profissionas, tudo utilizando HTML e CSS. Além disso, esse projeto foi produzido levando em consideração a responsividade para teleas menores.
+Pojeto desenvolvido com base nos cursos de HTML e CSS da Alura, dando meus primeiros passos na área de tecnologia. Nesse projeto, elaborei uma página de currículo para mim, contando com várias informações profissionas, tudo utilizando HTML e CSS. Além disso, esse projeto foi produzido levando em consideração a responsividade para telas menores.
